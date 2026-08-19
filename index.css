@@ -277,7 +277,7 @@ span{
 /* ---------------hero section--------- */
 .hero-sec{
     position: relative;
-    background-image: url(/Assests/image.png);
+    background-image: url(Assests/image.png);
     background-size: cover;
     height: 600px;
     display: flex;
