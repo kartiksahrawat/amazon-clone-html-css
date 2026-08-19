@@ -325,6 +325,7 @@ span{
     padding: 20px;
     display: flex;
     flex-direction: column;
+    box-sizing: border-box;
 }
 
 .box > a:last-child {
